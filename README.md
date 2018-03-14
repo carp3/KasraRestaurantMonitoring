@@ -28,7 +28,7 @@
 
 ## حق نشر
 
-<p dir='rtl' align='right'>GNU GPL  منتشر شده .این برنامه تحت پروانه </p>
+<p dir='rtl' align='right'>این برنامه تحت پروانه GNU GPL منتشر شده است.</p>
 
 ## How to Build
  - Open KasraMonitoring.sln
