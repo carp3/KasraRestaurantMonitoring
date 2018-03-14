@@ -25,7 +25,8 @@
 
 <p dir='rtl' align='right'>این برنامه برای استفاده در یکی از سیستم های نصب شده کسرا نوشته شده. لذا برای استفاده در دیگر سیستم ها احتمالا نیاز به مقداری تغییر دارد.
 </p>
-
+## حق نشر
+  <p dir='rtl' align='right'>GNU  منتشر شده .این برنامه تحت پر</p>می
 ## How to Build
  - Open KasraMonitoring.sln
  - Make necessary changes 
