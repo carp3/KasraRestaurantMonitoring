@@ -16,6 +16,10 @@
  - امکان جستجو
  - امکان انتخاب تاریخ تا چند روز قبل
 
+## تصویر برنامه
+
+![تصویر برنامه](https://raw.githubusercontent.com/carp3/KasraRestaurantMonitoring/master/Screenshot_censored.png)
+
 ## نکته
 
 
